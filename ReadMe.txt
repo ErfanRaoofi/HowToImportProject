@@ -17,3 +17,6 @@ git remote -v
 
 
 git push origin master
+
+//react install------------------------
+npm install react-scripts --save
