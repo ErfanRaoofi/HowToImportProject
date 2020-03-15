@@ -1,8 +1,7 @@
 git --version 
-git config --global user.name "Your_Name"
+git config --global user.name "ErfanRaoofi"
 
-git config --global user.email "Your-Email"
-
+git config --global user.email "erfan.raoofi@gmail.com"
 
 git init
 
@@ -12,11 +11,9 @@ git commit -m "First commit"
 
 ساخت ریپازیتوری جدید و نوشتن کپی لینک آن
 
-$ git remote add origin remote repository URL
-# Sets the new remote
-$ git remote -v
-# Verifies the new remote URL
+git remote add origin //remote repository URL
 
-$ git push origin master
-# Pushes the changes in your local repository up to the remote repository you specified as the origin+
-dfvdf
+git remote -v
+
+
+git push origin master
