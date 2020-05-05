@@ -23,3 +23,5 @@ npm install react-scripts --save
 
 //angular in host
 ng serve --host 192.168.105.42
+
+ng serve --open --port=4203
